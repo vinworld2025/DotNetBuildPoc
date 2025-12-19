@@ -1,1 +1,2 @@
-DOTNET DEMO
+DOTNET DEMO training
+
